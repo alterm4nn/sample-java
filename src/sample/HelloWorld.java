@@ -1,5 +1,6 @@
 /* HelloWorld.java
  */
+package sample
 
 public class HelloWorld
 {
